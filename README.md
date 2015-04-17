@@ -20,6 +20,4 @@ $(".page").primePage({
      * 
      */
 
-   $(".page").on("pageClick", function (event) {
-        
-    });
+   $(".page").on("pageClick", function (event) {});
