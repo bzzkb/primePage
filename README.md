@@ -1,7 +1,8 @@
-# primePage
-## 基于jquery的分页组件
+# primePage.js
 
-##使用方法：
+### 基于jquery的分页组件
+
+    ####使用方法：
 
     $(".page").primePage({
         // 不管多少页码，每次最多显示7个     
